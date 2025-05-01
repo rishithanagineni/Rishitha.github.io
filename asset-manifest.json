@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Rishitha.github.io/static/css/main.aec202e8.css",
+    "main.js": "/Rishitha.github.io/static/js/main.fab6b338.js",
+    "static/js/453.c8f68f1b.chunk.js": "/Rishitha.github.io/static/js/453.c8f68f1b.chunk.js",
+    "index.html": "/Rishitha.github.io/index.html",
+    "main.aec202e8.css.map": "/Rishitha.github.io/static/css/main.aec202e8.css.map",
+    "main.fab6b338.js.map": "/Rishitha.github.io/static/js/main.fab6b338.js.map",
+    "453.c8f68f1b.chunk.js.map": "/Rishitha.github.io/static/js/453.c8f68f1b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aec202e8.css",
+    "static/js/main.fab6b338.js"
+  ]
+}
